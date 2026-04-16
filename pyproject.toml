@@ -5,7 +5,7 @@ description = "Scrobble songs played on Sonos speakers to Last.fm"
 requires-python = ">=3.14"
 dependencies = [
     "soco>=0.30",
-    "pylast>=5.3",
+    "pylast>=7.0.2",
     "python-dotenv>=1.0",
     "fastapi>=0.115",
     "uvicorn[standard]>=0.34",
