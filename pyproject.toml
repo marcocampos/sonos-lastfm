@@ -8,7 +8,7 @@ dependencies = [
     "pylast>=5.3",
     "python-dotenv>=1.0",
     "fastapi>=0.115",
-    "uvicorn[standard]>=0.34",
+    "uvicorn[standard]>=0.44.0",
     "python-json-logger>=4.0.0",
 ]
 
